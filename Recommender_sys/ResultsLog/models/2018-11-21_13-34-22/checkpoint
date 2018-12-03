@@ -1,0 +1,2 @@
+model_checkpoint_path: "Singular_Value_Decomposition_Plus_Plus.ckpt"
+all_model_checkpoint_paths: "Singular_Value_Decomposition_Plus_Plus.ckpt"
